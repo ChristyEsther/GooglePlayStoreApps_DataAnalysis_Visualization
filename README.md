@@ -1,4 +1,4 @@
-# GooglePlayStoreApps_DataAnalysis_Visualization
+# GoogleAppStore_DataAnalysis_DataVisualization
 A wholesome Data Analysis and Data visualizaton created for Google Apps store dataset to find the top app categories and the variables that contribute to it.
 I harnessed the power of Python's Pandas and NumPy libraries to conduct a comprehensive data analysis. By employing these tools, 
 I efficiently cleaned, processed, and manipulated the dataset to extract valuable insights. 
